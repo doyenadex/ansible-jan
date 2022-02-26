@@ -1,0 +1,4 @@
+---
+# vars file for web-server
+webContent: ade.html
+apachePort: 8090
